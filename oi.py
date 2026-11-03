@@ -1,0 +1,2 @@
+nome =  'oi'
+print(nome)

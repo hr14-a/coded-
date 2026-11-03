@@ -1,0 +1,3 @@
+#!/bin/bash 
+echo "oi"
+cp /home/tomate/apps/coded/perceptron.mjs ./perceptron.mjs
